@@ -5,25 +5,13 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: about
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: lucas-hackl
       # Override your bio text from `authors/admin/_index.md`?
       text: Lucas Hackl is a Lecturer in Mathematical Physics in the School of Mathematics and Statistics at the University of Melbourne. He is currently funded through a Feodor Lynen Research Fellowship of the Alexander von Humboldt Foundation. She is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=18%22">Mathematical Physics Research Group</a>.
-  ---
-widget: about
-headless: true  # This file represents a page section.
-
-# Put Your Section Options Here (title, background etc.)
-title: Biography
-weight: 10 # Position of section on page
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-author: 'admin'
----
 
 The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
