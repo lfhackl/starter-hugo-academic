@@ -1,7 +1,7 @@
 ---
 title: Lucas Hackl
 role: Lecturer in Mathematical Physics
-avatar_filename: lucas-hackl-1.jpg
+avatar_filename: lucas-hackl-1-.jpg
 social:
   - display:
     header: true
