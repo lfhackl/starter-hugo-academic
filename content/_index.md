@@ -80,6 +80,22 @@ sections:
           date_start: '2013-08-01'
           date_end: '2018-07-31'
           description: 
+        - title: MSc in Physics (Perimeter Scholars International)
+          company: University of Waterloo & Perimeter Institute for Theoretical Physics
+          company_url: 'https://perimeterinstitute.ca/psi-masters-program'
+          company_logo: 
+          location: Waterloo, Ontario, Canada
+          date_start: '2011-10-01'
+          date_end: '2012-09-30'
+          description: 
+        - title: BSc in Physics
+          company: Humboldt-Universität zu Berlin
+          company_url: 'https://www.physik.hu-berlin.de/'
+          company_logo: 
+          location: Berlin, Germany
+          date_start: '2019-09-01'
+          date_end: '2020-12-31'
+          description:
     design:
       columns: '2'
   - block: accomplishments
