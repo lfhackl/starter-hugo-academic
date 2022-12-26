@@ -26,7 +26,7 @@ sections:
       items:
         - title: Lecturer in Mathematical Physics
           company: University of Melbourne
-          company_url: ''
+          company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
           company_logo: org-gc
           location: Melbourne, Australia
           date_start: '2022-03-01'
@@ -39,7 +39,7 @@ sections:
               * Deploying
         - title: Feodor Lynen Research Fellow
           company: University of Melbourne
-          company_url: ''
+          company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
           company_logo: org-x
           location: Melbourne, Australia
           date_start: '2021-01-01'
@@ -47,19 +47,19 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
         - title: Postdoctoral Fellow
           company: University of Copenhagen - Københavns Universitet
-          company_url: ''
+          company_url: 'https://qmath.ku.dk/'
           company_logo: org-x
           location: Copenhagen, Denmark
           date_start: '2019-09-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
         - title: Postdoctoral Fellow
-          company: Max Planck Harvard 
-          company_url: ''
+          company: Max Planck Harvard Research Center for Quantum Optics
+          company_url: 'https://www.mph-quantum.mpg.de/'
           company_logo: org-x
-          location: Copenhagen, Denmark
-          date_start: '2019-09-01'
-          date_end: '2020-12-31'
+          location: Munich, Germany
+          date_start: '2018-08-01'
+          date_end: '2019-08-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -172,33 +172,16 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: lucas.hackl@unimelb.edu.au
+      phone: +61 3 834 46492
       address:
         street: 450 Serra Mall
         city: Stanford
         region: CA
         postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        country: Australia
+        country_code: AU
+      directions: <a href="[https://www.w3schools.com/](https://maps.unimelb.edu.au/point?poi=663141)" target="_blank">see directions</a>
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
