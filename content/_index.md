@@ -28,7 +28,7 @@ sections:
         - title: Lecturer in Mathematical Physics
           company: University of Melbourne
           company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
-          company_logo: org-gc
+          company_logo: unimelb
           location: Melbourne, Australia
           date_start: '2022-03-01'
           date_end: ''
@@ -36,7 +36,7 @@ sections:
         - title: Feodor Lynen Research Fellow
           company: University of Melbourne
           company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
-          company_logo: org-x
+          company_logo: alexander_von_humboldt_foundation
           location: Melbourne, Australia
           date_start: '2021-01-01'
           date_end: ''
