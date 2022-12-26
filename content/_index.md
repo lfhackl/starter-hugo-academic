@@ -61,6 +61,14 @@ sections:
           date_start: '2018-08-01'
           date_end: '2019-08-31'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Graduate Assistant
+          company: Pennsylvania State University
+          company_url: ''
+          company_logo: org-x
+          location: State College, USA
+          date_start: '2018-08-01'
+          date_end: '2019-08-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -181,7 +189,7 @@ sections:
         postcode: '94305'
         country: Australia
         country_code: AU
-      directions: <a href="[https://www.w3schools.com/](https://maps.unimelb.edu.au/point?poi=663141)" target="_blank">see directions</a>
+      directions: <a href="https://maps.unimelb.edu.au/point?poi=663141" target="_blank">see directions</a>
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
