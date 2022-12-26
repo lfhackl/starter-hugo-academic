@@ -32,11 +32,7 @@ sections:
           location: Melbourne, Australia
           date_start: '2022-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+          description: 
         - title: Feodor Lynen Research Fellow
           company: University of Melbourne
           company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
@@ -44,7 +40,7 @@ sections:
           location: Melbourne, Australia
           date_start: '2021-01-01'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 
         - title: Postdoctoral Fellow
           company: University of Copenhagen - Københavns Universitet
           company_url: 'https://qmath.ku.dk/'
@@ -52,23 +48,15 @@ sections:
           location: Copenhagen, Denmark
           date_start: '2019-09-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 
         - title: Postdoctoral Fellow
           company: Max Planck Harvard Research Center for Quantum Optics
           company_url: 'https://www.mph-quantum.mpg.de/'
-          company_logo: org-x
+          company_logo: mphq
           location: Munich, Germany
           date_start: '2018-08-01'
           date_end: '2019-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Graduate Assistant
-          company: Pennsylvania State University
-          company_url: ''
-          company_logo: org-x
-          location: State College, USA
-          date_start: '2018-08-01'
-          date_end: '2019-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description:
     design:
       columns: '2'
   - block: accomplishments
