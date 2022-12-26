@@ -12,6 +12,7 @@ sections:
       username: lucas-hackl
       # Override your bio text from `authors/admin/_index.md`?
       text: Lucas Hackl is a Lecturer in Mathematical Physics in the School of Mathematics and Statistics at the University of Melbourne. He is currently funded through a Feodor Lynen Research Fellowship of the Alexander von Humboldt Foundation. She is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=18%22">Mathematical Physics Research Group</a>.
+  - block: experience
     content:
       title: Experience
       # Date format for experience
