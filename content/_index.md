@@ -12,23 +12,6 @@ sections:
       username: lucas-hackl
       # Override your bio text from `authors/admin/_index.md`?
       text: Lucas Hackl is a Lecturer in Mathematical Physics in the School of Mathematics and Statistics at the University of Melbourne. He is currently funded through a Feodor Lynen Research Fellowship of the Alexander von Humboldt Foundation. She is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=18%22">Mathematical Physics Research Group</a>.
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-  - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -60,6 +43,22 @@ sections:
           location: Melbourne, Australia
           date_start: '2021-01-01'
           date_end: ''
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Postdoctoral Fellow
+          company: University of Copenhagen - Københavns Universitet
+          company_url: ''
+          company_logo: org-x
+          location: Copenhagen, Denmark
+          date_start: '2019-09-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Postdoctoral Fellow
+          company: Max Planck Harvard 
+          company_url: ''
+          company_logo: org-x
+          location: Copenhagen, Denmark
+          date_start: '2019-09-01'
+          date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -102,33 +101,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -156,14 +128,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -199,11 +163,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
