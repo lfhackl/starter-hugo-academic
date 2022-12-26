@@ -59,6 +59,45 @@ sections:
           description:
     design:
       columns: '2'
+  - block: experience
+    id: education
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD in Physics
+          company: Pennsylvania State University
+          company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
+          company_logo: unimelb
+          location: Melbourne, Australia
+          date_start: '2022-03-01'
+          date_end: ''
+          description: 
+        - title: MSc in Physics
+          company: University of Melbourne
+          company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
+          company_logo: alexander_von_humboldt_foundation
+          location: Melbourne, Australia
+          date_start: '2021-01-01'
+          date_end: ''
+          description: 
+        - title: BSc in Physics
+          company: University of Copenhagen - Københavns Universitet
+          company_url: 'https://qmath.ku.dk/'
+          company_logo: UNCP
+          location: Copenhagen, Denmark
+          date_start: '2019-09-01'
+          date_end: '2020-12-31'
+          description:
+    design:
+      columns: '2'
   - block: accomplishments
     id: accomplishments
     content:
