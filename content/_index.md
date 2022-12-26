@@ -36,7 +36,7 @@ sections:
         - title: Feodor Lynen Research Fellow
           company: University of Melbourne
           company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
-          company_logo: alexander_von_humboldt_foundation
+          company_logo: unimelb
           location: Melbourne, Australia
           date_start: '2021-01-01'
           date_end: ''
@@ -148,10 +148,18 @@ sections:
           date_end: ''
           date_start: '2017-01-25'
           description: ''
-          organization: Pennsylvania State University | Department of Physics
+          organization: Pennsylvania State University
           organization_url: https://science.psu.edu/physics
           title: Peter Eklund Award for Scientific Communication
           url: 'https://science.psu.edu/physics/graduate/awards/student-research-awards'
+        - certificate_url:
+          date_end: ''
+          date_start: '2017-03-25'
+          description: ''
+          organization: Perimeter Institute for Theoretical Physics
+          organization_url: https://perimeterinstitute.ca/
+          title: Perimeter Visiting Graduate Fellowship
+          url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2016-05-25'
