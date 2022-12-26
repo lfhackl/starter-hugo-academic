@@ -31,5 +31,6 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/lfhackl/
+    label: LinkedIn
 superuser: false
 ---
