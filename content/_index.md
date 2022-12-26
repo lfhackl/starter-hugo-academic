@@ -119,7 +119,7 @@ sections:
           description: ''
           organization: Lindau Nobel Laureate Meetings
           organization_url: 
-          title: 66th Linau Nobel Laureate Meeting 2016
+          title: 66th Lindau Nobel Laureate Meeting 2016
           url: ''
         - certificate_url: 
           date_end: ''
