@@ -1,6 +1,9 @@
 ---
 title: Lucas Hackl
 role: Lecturer in Mathematical Physics
+organizations:
+  - name: University of Melbourne
+    url: https://www.unimelb.edu.au/
 social:
   - display:
     header: true
