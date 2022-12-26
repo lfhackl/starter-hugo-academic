@@ -9,9 +9,9 @@ sections:
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: lucas-hackl
+      username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: Lucas Hackl is a Lecturer in Mathematical Physics in the School of Mathematics and Statistics at the University of Melbourne. He is currently funded through a Feodor Lynen Research Fellowship of the Alexander von Humboldt Foundation. She is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=18%22">Mathematical Physics Research Group</a>.
+      text: Lucas Hackl is a Lecturer in Mathematical Physics in the School of Mathematics and Statistics at the University of Melbourne. He is currently funded through a Feodor Lynen Research Fellowship of the Alexander von Humboldt Foundation. He is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=18%22">Mathematical Physics Research Group</a>.
   - block: experience
     content:
       title: Experience
@@ -33,7 +33,6 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
@@ -183,10 +182,10 @@ sections:
       email: lucas.hackl@unimelb.edu.au
       phone: +61 3 834 46492
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 813 Swanston St
+        city: Parkville
+        region: VIC
+        postcode: '3052'
         country: Australia
         country_code: AU
       directions: <a href="https://maps.unimelb.edu.au/point?poi=663141" target="_blank">see directions</a>
