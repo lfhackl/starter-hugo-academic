@@ -117,7 +117,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Pennsylvania State University, Department of Physics
+          organization: Lindau Nobel Laureate Meetings
           organization_url: 
           title: 66th Linau Nobel Laureate Meeting 2016
           url: ''
