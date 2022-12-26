@@ -42,7 +42,7 @@ sections:
           date_end: ''
           description: 
         - title: Postdoctoral Fellow
-          company: University of Copenhagen - Københavns Universitet
+          company: University of Copenhagen
           company_url: 'https://qmath.ku.dk/'
           company_logo: UNCP
           location: Copenhagen, Denmark
@@ -74,25 +74,25 @@ sections:
       items:
         - title: PhD in Physics
           company: Pennsylvania State University
-          company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
-          company_logo: unimelb
-          location: Melbourne, Australia
-          date_start: '2022-03-01'
-          date_end: ''
+          company_url: 'https://science.psu.edu/physics'
+          company_logo: PSU_seal
+          location: State College, Pennsylvania, USA
+          date_start: '2013-08-01'
+          date_end: '2018-07-31'
           description: 
-        - title: MSc in Physics
-          company: University of Melbourne
-          company_url: 'https://ms.unimelb.edu.au/research/groups/details?gid=18%22'
-          company_logo: alexander_von_humboldt_foundation
-          location: Melbourne, Australia
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: MSc in Physics (Perimeter Scholars International)
+          company: University of Waterloo & Perimeter Institute for Theoretical Physics
+          company_url: 'https://perimeterinstitute.ca/psi-masters-program'
+          company_logo: university-of-waterloo
+          location: Waterloo, Ontario, Canada
+          date_start: '2011-10-01'
+          date_end: '2012-09-30'
           description: 
         - title: BSc in Physics
-          company: University of Copenhagen - Københavns Universitet
-          company_url: 'https://qmath.ku.dk/'
-          company_logo: UNCP
-          location: Copenhagen, Denmark
+          company: Humboldt-Universität zu Berlin
+          company_url: 'https://www.physik.hu-berlin.de/'
+          company_logo: hu-berlin
+          location: Berlin, Germany
           date_start: '2019-09-01'
           date_end: '2020-12-31'
           description:
