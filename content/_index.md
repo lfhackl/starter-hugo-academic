@@ -81,7 +81,7 @@ sections:
           organization_url: https://www.arc.gov.au/
           title: Discovery Early Career Researcher Award (DECRA)
           url: ''
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
           date_start: '2019-07-25'
           description: ''
@@ -89,17 +89,17 @@ sections:
           organization_url: https://www.humboldt-foundation.de/en/
           title: Feodor Lynen Research Fellowship
           url: ''
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2018-01-25'
           description: ''
           organization: Penn State Alumni Association
           organization_url: https://gradschool.psu.edu/graduate-school-funding/programs/aada/
           title: Penn State Alumni Association Dissertation Award 2018
           url: ''
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2017-07-01'
           description: ''
           organization: American Physical Society
           organization_url: https://gradschool.psu.edu/graduate-school-funding/programs/aada/
@@ -107,7 +107,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2017-01-25'
           description: ''
           organization: Pennsylvania State University | Department of Physics
           organization_url: https://science.psu.edu/physics
@@ -115,7 +115,7 @@ sections:
           url: 'https://science.psu.edu/physics/graduate/awards/student-research-awards'
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2016-05-25'
           description: ''
           organization: Lindau Nobel Laureate Meetings
           organization_url: 
