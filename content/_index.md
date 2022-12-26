@@ -59,37 +59,6 @@ sections:
           description:
     design:
       columns: '2'
-  - block: experience
-    id: education
-    content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: PhD in Physics
-          company: Pennsylvania State University
-          company_url: 'https://science.psu.edu/physics'
-          company_logo: PSU_seal
-          location: State College, Pennsylvania, USA
-          date_start: '2013-08-01'
-          date_end: '2018-07-31'
-          description: 
-        - title: MSc in Physics (Perimeter Scholars International)
-          company: University of Waterloo & Perimeter Institute for Theoretical Physics
-          company_url: 'https://perimeterinstitute.ca/psi-masters-program'
-          company_logo: UWaterloo
-          location: Waterloo, Ontario, Canada
-          date_start: '2011-10-01'
-          date_end: '2012-09-30'
-          description: 
-    design:
-      columns: '2'
   - block: accomplishments
     id: accomplishments
     content:
