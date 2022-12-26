@@ -83,7 +83,7 @@ sections:
         - title: MSc in Physics (Perimeter Scholars International)
           company: University of Waterloo & Perimeter Institute for Theoretical Physics
           company_url: 'https://perimeterinstitute.ca/psi-masters-program'
-          company_logo: university-of-waterloo
+          company_logo: UWaterloo
           location: Waterloo, Ontario, Canada
           date_start: '2011-10-01'
           date_end: '2012-09-30'
