@@ -4,23 +4,32 @@ role: Lecturer in Mathematical Physics
 social:
   - display:
     header: true
-    link: https://orcid.org/0000-0002-4172-0317
     icon_pack: ai
     icon: orcid
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
+    link: https://orcid.org/0000-0002-4172-0317
+    label: ORCID
+  - display:
     header: true
-  - icon: graduation-cap
+    icon_pack: fab
+    icon: twitter
+    link: https://twitter.com/LFHackl
+    label: Twitter
+  - display:
+    header: true
+    icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=ljQuNCQAAAAJ&hl=en
+    label: Google Scholar
+  - display:
+    header: true
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    icon: github
+    link: https://github.com/lfhackl
+    label: GitHub
+  - display:
+    header: true
     icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: linkedin
+    link: https://www.linkedin.com/in/lfhackl/
 superuser: false
 ---
