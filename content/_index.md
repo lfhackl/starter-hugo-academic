@@ -93,8 +93,8 @@ sections:
           company_url: 'https://www.physik.hu-berlin.de/'
           company_logo: hu-berlin
           location: Berlin, Germany
-          date_start: '2019-09-01'
-          date_end: '2020-12-31'
+          date_start: '2008-10-01'
+          date_end: '2011-09-30'
           description:
     design:
       columns: '2'
