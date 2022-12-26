@@ -13,9 +13,9 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: Lucas Hackl is a Lecturer in Mathematical Physics in the School of Mathematics and Statistics at the University of Melbourne. He is currently funded through a Feodor Lynen Research Fellowship of the Alexander von Humboldt Foundation. He is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=18%22">Mathematical Physics Research Group</a>.
   - block: experience
-    id: experience
+    id: research
     content:
-      title: Experience
+      title: Research
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -84,29 +84,61 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url:
+          date_end: ''
+          date_start: '2022-09-25'
+          description: ''
+          organization: Australian Research Council
+          organization_url: https://www.arc.gov.au/
+          title: Discovery Early Career Researcher Award (DECRA)
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2019-07-25'
+          description: ''
+          organization: Alexander von Humboldt Foundation
+          organization_url: https://www.humboldt-foundation.de/en/
+          title: Feodor Lynen Research Fellowship
+          url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Penn State Alumni Association
+          organization_url: https://gradschool.psu.edu/graduate-school-funding/programs/aada/
+          title: Penn State Alumni Association Dissertation Award 2018
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2021-01-25'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: American Physical Society
+          organization_url: https://gradschool.psu.edu/graduate-school-funding/programs/aada/
+          title: Brazil-US Exchange Fellowship
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Pennsylvania State University | Department of Physics
+          organization_url: https://science.psu.edu/physics
+          title: Peter Eklund Award for Scientific Communication
+          url: 'https://science.psu.edu/physics/graduate/awards/student-research-awards'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Pennsylvania State University, Department of Physics
+          organization_url: 
+          title: 66th Linau Nobel Laureate Meeting 2016
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2009-01-01'
+          description: ''
+          organization: Studienstiftung des deutschen Volkes
+          organization_url: https://www.studienstiftung.de/en/
+          title: Student Scholarship
           url: ''
     design:
       columns: '2'
