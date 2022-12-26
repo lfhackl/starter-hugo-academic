@@ -15,7 +15,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Research
+      title: Employment
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -57,6 +57,45 @@ sections:
           date_start: '2018-08-01'
           date_end: '2019-08-31'
           description:
+    design:
+      columns: '2'
+  - block: experience
+    id: education
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD in Physics
+          company: Pennsylvania State University
+          company_url: ''
+          company_logo: 
+          location: State College, Pennsylvania, USA
+          date_start: '2013-08-01'
+          date_end: '2018-07-31'
+          description: 
+        - title: MSc in Physics
+          company: University of Waterloo & Perimeter Institute for Theoretical Physics
+          company_url: ''
+          company_logo: 
+          location: Waterloo, Canada
+          date_start: '2011-08-01'
+          date_end: '2012-06-31'
+          description: 
+        - title: BSc in Physics
+          company: Humboldt-Universität zu Berlin
+          company_url: ''
+          company_logo: 
+          location: Berlin, Germany
+          date_start: '2008-10-01'
+          date_end: '2011-09-31'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
