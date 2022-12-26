@@ -75,7 +75,7 @@ sections:
         - title: PhD in Physics
           company: Pennsylvania State University
           company_url: 'https://science.psu.edu/physics'
-          company_logo: PSU_seal
+          company_logo: 
           location: State College, Pennsylvania, USA
           date_start: '2013-08-01'
           date_end: '2018-07-31'
