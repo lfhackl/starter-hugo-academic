@@ -16,6 +16,9 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 40
+  - name: Publications
+    url: 'https://scholar.google.com/citations?user=ljQuNCQAAAAJ&hl=en'
+    weight: 90
   - name: Contact
     url: '#contact'
     weight: 100
