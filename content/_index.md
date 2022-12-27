@@ -44,7 +44,7 @@ sections:
         - title: Postdoctoral Fellow
           company: University of Copenhagen
           company_url: 'https://qmath.ku.dk/'
-          company_logo: UNCP
+          company_logo: unicph
           location: Copenhagen, Denmark
           date_start: '2019-09-01'
           date_end: '2020-12-31'
