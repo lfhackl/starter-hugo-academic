@@ -75,7 +75,7 @@ sections:
         - title: PhD in Physics
           company: Pennsylvania State University
           company_url: 'https://science.psu.edu/physics'
-          company_logo: PSU_seal
+          company_logo: pennsylvania_state_university
           location: State College, Pennsylvania, USA
           date_start: '2013-08-01'
           date_end: '2018-07-31'
@@ -167,6 +167,14 @@ sections:
           organization: Lindau Nobel Laureate Meetings
           organization_url: 
           title: 66th Lindau Nobel Laureate Meeting
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2011-04-01'
+          description: ''
+          organization: Perimeter Institute for Theoretical Physics
+          organization_url: 
+          title: Perimeter Scholars International
           url: ''
         - certificate_url: 
           date_end: ''
